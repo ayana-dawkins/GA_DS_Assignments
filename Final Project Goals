@@ -1,0 +1,9 @@
+Final Project: Goals
+
+1. I would like to do some more data exploration to see if I can determine the best way to visually capture which data fields are the best predictors of being the victim of police brutality (Is it race, is it education, is it city, is it dependent on whether the police felt threatened i.e. how they perceived the victim)
+
+2. I would like to be able to implement a Decision Tree for Feature Selection (especially with the data set I'm using)
+
+3. Feature engineering
+
+4. Bring in string features if possible
